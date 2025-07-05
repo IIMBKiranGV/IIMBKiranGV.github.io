@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <header class="navbar">
+    <nav>
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/workex.html' | relative_url }}">Work Ex</a>
+      <a href="{{ '/technical.html' | relative_url }}">Technical Capabilities</a>
+      <a href="{{ '/academic.html' | relative_url }}">Academic Info</a>
+      <a href="{{ '/bow.html' | relative_url }}">BOW</a>
+      <a href="{{ '/contact.html' | relative_url }}">Contact</a>
+    </nav>
+  </header>
+
+  <!-- Page Content -->
+  <main class="main-content">
+    {{ content }}
+  </main>
+
+</body>
+</html>
