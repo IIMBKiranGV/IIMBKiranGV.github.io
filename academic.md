@@ -20,3 +20,4 @@ permalink: /academic.html
 |----------------------------------------------------------------|------------------------------|------------------|------------------------|
 | Business Analytics and Artificial Intelligence _ Batch 16      | IIM Bangalore                | 2026 (Ongoing)   | Business Analytics, AI |
 | Executive Program in Strategic Sales Management _ Batch 6      | IIM Indore                   | 2023             | Sales Management       |
+![Academic Information - visual selection](https://github.com/user-attachments/assets/d0c6918f-1cb0-4b10-b91b-483e32597273)
