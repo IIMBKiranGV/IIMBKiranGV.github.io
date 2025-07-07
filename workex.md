@@ -5,11 +5,8 @@ permalink: /workex.html
 ---
 
 # Work Experience
-
 ## The Journey
-
 ![Professional_Journey](https://github.com/user-attachments/assets/16fc8640-787c-42ed-af19-07bdf8606150)
-
 ## Detailed Work Experience
 
 | **Company**               | **Role**                       | **Duration**        | **Key Contributions**                                                                                                                         |
