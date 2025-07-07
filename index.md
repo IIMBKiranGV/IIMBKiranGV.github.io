@@ -8,7 +8,7 @@ permalink: /
 
 # 👋 Hi, I'm Kiran G V
 
-Sales Operations Architect | Revenue Intelligence | Business Analytics | AI for Enterprise Systems
+Sales Operations Architect, Revenue Intelligence, Business Analytics, AI for Enterprise Systems
 
 ---
 
