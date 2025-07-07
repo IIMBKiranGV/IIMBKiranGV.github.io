@@ -4,4 +4,4 @@ title: Academic Info
 permalink: /academic.html
 ---
 
-![Academic Information - visual selection](https://github.com/user-attachments/assets/d0c6918f-1cb0-4b10-b91b-483e32597273)
+![Academic Information - visual selection (1)](https://github.com/user-attachments/assets/c712f24c-e46e-40dc-b907-6a6ad98eea86)
