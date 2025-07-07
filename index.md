@@ -12,9 +12,12 @@ Sales Operations Architect, Revenue Intelligence, Business Analytics, AI for Ent
 
 ---
 
-🔧 With over 10 years of cross-industry experience (SaaS, Manufacturing,  Services, and Products), I specialize in engineering data-backed GTM systems, building scalable Sales Operation models, and optimizing CRM and sales workflows across global teams.
+🔧 With over 10 years of cross-industry experience (SaaS, Manufacturing,  Services, and Products), 
+I specialize in engineering data-backed GTM systems, building scalable Sales Operation models,
+optimizing CRM and sales workflows across global teams.
 
-🧠 Currently enrolled in IIM Bangalore’s Business Analytics & Artificial Intelligence program (BAAI), I’m deepening my proficiency in:
+🧠 Currently enrolled in IIM Bangalore’s Business Analytics & Artificial Intelligence program (BAAI),
+I’m deepening my proficiency in:
 
 - 🔁 **ETL Pipelines** using Power Query, SQL, and Python (Pandas, NumPy)
 - 📊 **Analytics** using Power BI, DAX, Tableau, and Excel (Advanced VBA/Macros)
