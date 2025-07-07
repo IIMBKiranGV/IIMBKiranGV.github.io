@@ -12,18 +12,18 @@ Sales Operations Architect, Revenue Intelligence, Business Analytics, AI for Ent
 
 ---
 
-🔧 With over 10 years of cross-industry experience (SaaS, Manufacturing,  Services, and Products), 
-I specialize in engineering data-backed GTM systems, building scalable Sales Operation models,
-optimizing CRM and sales workflows across global teams.
+With over 10 years of cross-industry experience (SaaS, Manufacturing,  Services, and Products), 
+- I specialize in engineering data-backed GTM systems, building scalable Sales Operation models,
+- optimizing CRM and sales workflows across global teams.
 
-🧠 Currently enrolled in IIM Bangalore’s Business Analytics & Artificial Intelligence program (BAAI),
-I’m deepening my proficiency in:
+- Currently enrolled in IIM Bangalore’s Business Analytics & Artificial Intelligence program (BAAI),
+- I’m deepening my proficiency in:
 
-- 🔁 **ETL Pipelines** using Power Query, SQL, and Python (Pandas, NumPy)
-- 📊 **Analytics** using Power BI, DAX, Tableau, and Excel (Advanced VBA/Macros)
-- 🤖 **AI/ML** using LangChain, TensorFlow, Scikit-Learn, XAI frameworks
-- 🔍 **Sales Intelligence**: CRM automation, pipeline scoring, comp modeling
-- 💡 **Prompt Engineering & LLMs** for business ops transformation
+- **ETL Pipelines** using Power Query, SQL, and Python (Pandas, NumPy)
+- **Analytics** using Power BI, DAX, Tableau, and Excel (Advanced VBA/Macros)
+- **AI/ML** using LangChain, TensorFlow, Scikit-Learn, XAI frameworks
+- **Sales Intelligence**: CRM automation, pipeline scoring, comp modeling
+- **Prompt Engineering & LLMs** for business ops transformation
 
 ---
 
@@ -37,10 +37,10 @@ I’m deepening my proficiency in:
 
 ---
 Here you'll find a mix of:
-- AI & Analytics Projects from IIM and consulting work
-- Custom sales dashboards and IC data models
-- Explorations in low-code AI tools and prompt engineering
-- Business storytelling through data and dashboards
+- **AI & Analytics Projects** from IIM and consulting work
+- **Custom sales dashboards and IC data models**
+- Explorations in **low-code AI tools and prompt engineering**
+- **Business storytelling** through data and dashboards
 
 ---
-Let’s build smarter business systems — one insight at a time.
+**Let’s build smarter business systems — one insight at a time.**
